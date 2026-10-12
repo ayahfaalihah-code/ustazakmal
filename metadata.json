@@ -1,0 +1,6 @@
+{
+  "name": "Misi Ibadat: Pengembara Suci",
+  "description": "Aplikasi permainan pendidikan interaktif Ibadat Darjah 3 untuk pembelajaran hadas, cara bersuci, haid, nifas, dan istihadah secara menyeronokkan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
